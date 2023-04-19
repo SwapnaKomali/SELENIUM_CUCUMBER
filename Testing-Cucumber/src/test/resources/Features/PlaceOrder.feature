@@ -22,8 +22,8 @@ Scenario Outline: User is able to place the order
     And Click Pay and Confirm Order button 
     Then Verify success message Your order has been placed successfully!
     
-    Examples:
+    Examples: 
     
-    |Name      | MailId                   | pwd    | Fname    | Lname   |  ads             | state        |  city     | zipcode   | mobileNUM   |
-    |Swapna    | swapnakomali127@gmail.com | fsgdfg | swapna   | komali  |  Peddapappuru    |andraparadesh | Anantapur | 515445    | 9346683203  |
+    |Name      | MailId                     | pwd    | Fname    | Lname   |  ads             | state        |  city     | zipcode   | mobileNUM   |
+    |Swapna    | swethaswe989@gmail.com          | fsgdfg | swapna   | komali  |  Peddapappuru    |andraparadesh | Anantapur | 515445    | 9346683203  |
    

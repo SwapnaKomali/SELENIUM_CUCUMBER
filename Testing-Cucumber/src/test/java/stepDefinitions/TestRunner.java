@@ -12,4 +12,8 @@ plugin = {"pretty","html:target/HtmlReports/index.html",
 )
 public class TestRunner {
 
+	
+	
 }
+
+
